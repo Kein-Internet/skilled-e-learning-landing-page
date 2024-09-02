@@ -242,6 +242,10 @@ body > * + * {
   padding-block: 2.5rem;
 }
 
+.footer__btn {
+  background: var(--gradient-purple);
+}
+
 /*==================
     TABLET MEDIA QUERY
     =================*/
