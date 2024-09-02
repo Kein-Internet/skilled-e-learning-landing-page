@@ -10,7 +10,7 @@
   --clr-secondary-grey: hsl(232, 10%, 56%);
   --clr-secondary-white: hsl(0, 100%, 100%);
 
-  --gradient-pink: linear-gradient(hsl(322, 87%, 55%), hsl(13, 100%, 64%));
+  --gradient-pink: linear-gradient(hsl(13, 100%, 64%), hsl(322, 87%, 55%));
   --gradient-purple: linear-gradient(hsl(237, 100%, 64%), hsl(322, 87%, 55%));
 
   /*==========
