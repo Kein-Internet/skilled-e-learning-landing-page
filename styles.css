@@ -167,6 +167,10 @@ body > * + * {
   font-size: var(--fs-3xl);
 }
 
+.hero__desc {
+  max-width: calc(470rem / 16);
+}
+
 .hero__content > * + * {
   margin-top: 2rem;
   text-align: start;
