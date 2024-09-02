@@ -11,7 +11,7 @@
   --clr-secondary-white: hsl(0, 100%, 100%);
 
   --gradient-pink: linear-gradient(hsl(322, 87%, 55%), hsl(13, 100%, 64%));
-  --gradient-purple: linear-gradient(hsl(13, 100%, 64%), hsl(237, 100%, 64%));
+  --gradient-purple: linear-gradient(hsl(237, 100%, 64%), hsl(322, 87%, 55%));
 
   /*==========
       typography
@@ -305,6 +305,7 @@ body > * + * {
     grid-template-areas:
       "card__one card__two card__three"
       "card__four card__five card__six";
+    gap: 4rem 1.5rem;
   }
 }
 
